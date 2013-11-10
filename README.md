@@ -9,10 +9,10 @@ Konfigurasi
 
 1.	Letakkan token API [TXT.MY](http://txt.my) pada **$txt_my_token** di
 
-    `app/Controller/RequestController.php`
+`app/Controller/RequestController.php`
 	
 2.	Letakkan konfigurasi [Twilio](http://www.twilio.com)
 
-    `app/Plugin/Twilio/Config/twilio.php`
+`app/Plugin/Twilio/Config/twilio.php`
 	
 3.	Upload ke [Heroku](http://heroku.com)
